@@ -4,7 +4,7 @@ class Emp
     String name;
     public Emp()
     {
-        System.out.println("Int Emp...");
+        System.out.println("In Emp...");
     }
 }
 class perEmp extends Emp
