@@ -3,7 +3,6 @@ isPositive(), isNegative( ), isOdd( ), isEven( ), isPrime(), isAmstrong() the ab
 getFactorial(), getSqrt(), getSqr(), sumDigits()  these methods return int primitive type value.  
 dispBinary(), dispOctal(), displayhexa() these method return string value */
 
-
 import java.lang.Math;
 public class Number
 {
