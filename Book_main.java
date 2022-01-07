@@ -1,4 +1,3 @@
-package Exam;
 class Book
 {
     int book_id;
